@@ -1,0 +1,7 @@
+# godot specific stuff
+.import/
+export.cfg
+export_presets.cfg
+
+#mono specific
+.mono/
